@@ -19,12 +19,12 @@ This repository contains some sample videos of what the application did and the 
 * Blend Shapes to take a sphere (0) shape into one of the 4 emotions(1): Anger, Joy, Fear, & Sad. You can blend between all four and get some odd shapes, see the blend video for how this is done.
 
 #### Project Resources ####
-[ODU YouTube Video Explaining the Project](https://www.youtube.com/watch?v=L7-TkfYY18I)
-[Visualization Concept Derived From this work](https://hi.stamen.com/the-shapes-of-emotions-72c3851143e2)
-[LinqToTwitter](https://github.com/JoeMayo/LinqToTwitter)
-[IBM Watson Tone-Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
-[IBM Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
-[Unity Manual Blend Shapes](https://docs.unity3d.com/Manual/BlendShapes.html)
+* [ODU YouTube Video Explaining the Project](https://www.youtube.com/watch?v=L7-TkfYY18I)
+* [Visualization Concept Derived From this work](https://hi.stamen.com/the-shapes-of-emotions-72c3851143e2)
+* [LinqToTwitter](https://github.com/JoeMayo/LinqToTwitter)
+* [IBM Watson Tone-Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
+* [IBM Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
+* [Unity Manual Blend Shapes](https://docs.unity3d.com/Manual/BlendShapes.html)
 
 ##### Contact #####
 [John Shull](JShull@odu.edu)
