@@ -9,6 +9,7 @@ We used a series of open source libraries to help scrape twitter data by predete
 *Required Packages*
 * TextMesh Pro
 * LightWeight RP 6.9.2
+*If you just want the Unity Package Look in the Root Folder for 'VMASC_EmotionIcons'*
 
 This repository contains some sample videos of what the application did and the 3D content we used to represent the sentiment. The actual project source cannot be released at this time.
 * The core project used LinqToTwitter to scrape the data
