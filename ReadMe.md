@@ -7,27 +7,22 @@ We used a series of open source libraries to help scrape twitter data by predete
 
 ### Unity ###
 *Required Packages*
->TextMesh Pro
->LightWeight RP 6.9.2
+* TextMesh Pro
+* LightWeight RP 6.9.2
 
 This repository contains some sample videos of what the application did and the 3D content we used to represent the sentiment. The actual project source cannot be released at this time.
->The core project used LinqToTwitter to scrape the data
->IBM Sentiment/Tone Analyzer to Process the text
->The work done by Zan in Hi.Stamen
->Quad Tree algorithm to break the square tile into other sections - X,Y Coordinates were Time and Sentiment confidence
->Blend Shapes to take a sphere (0) shape into one of the 4 emotions(1): Anger, Joy, Fear, & Sad. You can blend between all four and get some odd shapes, see the blend video for how this is done.
+* The core project used LinqToTwitter to scrape the data
+* IBM Sentiment/Tone Analyzer to Process the text
+* The work done by Zan in Hi.Stamen
+* Quad Tree algorithm to break the square tile into other sections - X,Y Coordinates were Time and Sentiment confidence
+* Blend Shapes to take a sphere (0) shape into one of the 4 emotions(1): Anger, Joy, Fear, & Sad. You can blend between all four and get some odd shapes, see the blend video for how this is done.
 
 #### Project Resources ####
 [ODU YouTube Video Explaining the Project](https://www.youtube.com/watch?v=L7-TkfYY18I)
-
 [Visualization Concept Derived From this work](https://hi.stamen.com/the-shapes-of-emotions-72c3851143e2)
-
 [LinqToTwitter](https://github.com/JoeMayo/LinqToTwitter)
-
 [IBM Watson Tone-Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
-
 [IBM Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
-
 [Unity Manual Blend Shapes](https://docs.unity3d.com/Manual/BlendShapes.html)
 
 ##### Contact #####
